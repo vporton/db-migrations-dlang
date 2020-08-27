@@ -8,7 +8,7 @@
 	},
 	"description": "Library for SQL database migrations (like Django)",
 	"license": "GPLv3",
-	"name": "db-migrations-dlang",
+	"name": "db-migrations",
 	"subPackages": [
 		{
 			"name": "library",
