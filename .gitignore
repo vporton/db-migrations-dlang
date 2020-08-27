@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/db-migrations-dlang
+db-migrations-dlang.so
+db-migrations-dlang.dylib
+db-migrations-dlang.dll
+db-migrations-dlang.a
+db-migrations-dlang.lib
+db-migrations-dlang-test-*
+*.exe
+*.o
+*.obj
+*.lst

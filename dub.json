@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Victor Porton"
+	],
+	"copyright": "Copyright © 2020, Victor Porton",
+	"dependencies": {
+		"hunt-entity": "~>2.6.8"
+	},
+	"description": "Library for SQL database migrations (like Django)",
+	"license": "GPLv3",
+	"name": "db-migrations-dlang"
+}
